@@ -1,6 +1,8 @@
 [
  {
+   "remote": "crd",
    "repository": "android_device_asus_flo",
    "target_path": "device/asus/flo"
+   "revision": "6.0.0"
  }
 ]
